@@ -1,4 +1,4 @@
-# 》[TeleDiamond V2](https://telegram.me/antispamandhack)
+# "[TeleDiamond V2] ( https://telegram.me/blackandwhiteTM)
  
 #  و به ماستاره بدین star تو بالای همین صفحه بزنید رو
 # ♡=☆
@@ -7,7 +7,7 @@
 # برای نصب سورس کد زیر را در ترمینال وارد کنید
 
 ```
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/Mohammadrezar/td.git && cd td && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/babakkhan375/td.git && cd td && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 # دقت کنید که کل کد رو وارد کنید
 
@@ -20,17 +20,15 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 ```
   sudo_users = {
-    110626080,
-    103649648,
-    111020322,
-    0,
+    229445008،
+    0،
     YourID
   }
 ```
 
 
 برای اموزش دقیق تر کلیک کن
-# [آموزش سودو کردن](http://telegram.me/antispamandhack/267)
+# [آموزش سودو کردن] (http://telegram.me/blackandwhiteTM)
 
 # کسایی که سرورشون پولیه قسمت 1
 # و کسایی که سرورشون رایگانه(مثل سی 9)قسمت 2 رو انجام بدن
@@ -122,14 +120,13 @@ screen ./launch.sh
 
 # اگه در هر صورت در نصب اتولانچ با روش 1 به مشکل خوردین راه دوم رو برین
 
-
-# 》[Mohammad](http://telegram.me/mrr619) سوالی یا مشکلی بود در خدمتم
+# "(بابک خان) ( http://telegram.me/sudo_hacker ) سوالی یا مشکلی بود در خدمتم
 
 # توضیحات بیشتر در کانال ما
 
 # برای ورود به کانال کلیک کن
 
-# 》[عضویت](http://telegram.me/antispamandhack)
+# 》[عضویت](http://telegram.me/blackandwhiteTM)
 
 #  برای دریافت راهنما برای سودو ها دستور زیر را وارد کنید
 # راهنمای سودو!
